@@ -34,7 +34,7 @@ Komentaras suskirstytas į du skyrius: **1 skyrius** apima I–III įstatymo sky
 ## Metodas
 
 - Nuostatų tekstas perkeltas **pažodžiui** iš oficialios e-TAR suvestinės redakcijos, mašininiu būdu, be santrumpų ir praleidimų. Straipsnių dalys šaltinyje numeruojamos („1.“, „2.“), punktai žymimi „1)“; komentare nurodoma, pvz., „17 straipsnio 1 dalies 2 punktas“.
-- **Indeksai.** e-TAR tekste viršutiniai indeksai užrašyti be pakėlimo: 25 straipsnio punktas „81)“ reiškia 8¹ punktą, o nuorodos tekste, pvz., „Civilinio kodekso 6.1010 straipsnio“, reiškia Civilinio kodekso 6.1010 straipsnį (be indekso). Pažodinis tekstas paliktas toks, koks yra šaltinyje, o komentare indeksas rašomas pakeltai.
+- **Indeksai.** Viršutiniai indeksai pateikiami taip, kaip jie užrašyti šaltinyje (pvz., 25 straipsnio 8¹ punktas).
 - e-TAR redakcinės pastabos (informacija apie straipsnių dalių ir punktų pakeitimus bei papildymus įstatymu Nr. XIV-2388) pateikiamos po atitinkamo vieneto teksto kaip atskiros pastabos; laužtiniuose skliaustuose nurodoma dalis arba punktas, po kurio pastaba stovi šaltinyje. Pasirašymo formulė ir pakeitimų sąrašas į komentuojamą tekstą neįtraukti; iš jų paimti tik pagrindiniai duomenys šiame įvade.
 - Skyrių antraštės pateikiamos kaip struktūrinės antraštės; priedas pateikiamas kaip atskiras vienetas su antrašte „Įgyvendinami Europos Sąjungos teisės aktai“.
 - Komentaras parengtas **tik remiantis vietiniais šaltiniais** (oficialus teisės akto tekstas ir jo metaduomenys), nenaudojant komercinių teisinių duomenų bazių. **Teismų praktika – Lietuvos teismų ir Europos Sąjungos Teisingumo Teismo – į šią versiją neįtraukta**; ji bus papildyta atskiru etapu.

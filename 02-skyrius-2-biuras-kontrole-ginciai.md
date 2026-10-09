@@ -38,7 +38,7 @@ Asociacijos forma lemia, kad Biurui subsidiariai taikomas Asociacijų įstatymas
 >
 > 8) vadovaudamasis Bendradarbiavimo nuostatais, skiria ir atšaukia užsienio valstybių draudimo įmonių atstovus pretenzijoms dėl padarytos žalos nagrinėti Lietuvos Respublikoje, tvarko ir teikia duomenis apie draudimo įmonių atstovus pretenzijoms dėl padarytos žalos nagrinėti;
 >
-> 81) raštu informuoja apie draudikui iškeltą bankroto bylą arba priimtą sprendimą pradėti likvidavimo procedūrą dėl bankroto kitų Europos Sąjungos valstybių narių garantinius fondus ir žalos atlyginimo institucijas, atsakingas už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama;
+> 8¹) raštu informuoja apie draudikui iškeltą bankroto bylą arba priimtą sprendimą pradėti likvidavimo procedūrą dėl bankroto kitų Europos Sąjungos valstybių narių garantinius fondus ir žalos atlyginimo institucijas, atsakingas už žalos atlyginimą, kai draudimo įmonė bankrutuoja ar likviduojama;
 >
 > 9) susigrąžina iš šiame įstatyme nustatytų asmenų išmokėtas sumas, žalai administruoti išleistas lėšas ir dėl to patirtas papildomas išlaidas, vykdo pažeidimų, kurių metu neteisėtai naudojamasi transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo sistema, prevenciją;
 >
